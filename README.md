@@ -3,7 +3,7 @@ Muscat2040 Botnet is an educational network stress testing and load simulation t
 
 
 
-Disclaimer:
+⚠️ Disclaimer:
 This tool was designed for educational purposes only. The creator of this tool, Mohammed Alfahdi, bears no responsibility for any misuse of the tool.
 The effectiveness of this tool has also been tested on several websites.
 
